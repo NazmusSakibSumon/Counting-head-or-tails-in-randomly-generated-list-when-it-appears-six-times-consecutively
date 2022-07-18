@@ -1,0 +1,6 @@
+Steps to complete this project:
+a) At first we will import our libraries and modules.
+b) Then we will use those modules and libraries to count heads or tails and the number of occurance of each of head and tail consecutively.
+c) Then we will keep only those where the number of consecutive occurance is 6, whether it is head or tail.
+d) Next we will identify how many times it is head and how many times it is tail.
+e) The results will be different each time we run the whole code. Because the numbers are generated using random library.
